@@ -1,0 +1,70 @@
+.navbar-brand{
+    
+    color: green;
+    font-weight: bold;
+}
+
+
+.navbar-brand a {
+    color: green;
+    box-shadow: 3px 1px 5px 1px ;}
+
+#logo{
+    color: green;
+    
+    
+}
+#logo a:hover{ box-shadow: 3px 1px 5px ;}
+#nav-list{
+    margin-top: 10px;
+    font-weight: bold;
+    border: 1px green;
+    font-size: 1.3em;
+  }
+  
+  #nav-list a {
+    color: green;
+    text-align: center;
+  }
+  
+  #nav-list a:hover{
+    background: #e7e7e7;
+  }
+  
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+    border: 1px solid green;
+}
+
+.navbar-header button.navbar-toggle{
+    clear: both;
+    
+}
+    
+  
+h1{
+    text-align: center;
+    text-shadow: 1px ;
+    color: green;
+    font-weight: bold;
+}
+
+p{
+    text-align: center;
+    color: black;
+    background-color: gray;
+    font-family: "Oxygen" sans-serif;
+    margin: 15px;
+    font-weight: bold;
+    font-size: 1em;
+    padding: 15px;
+    
+    
+}
+
+
+#main-content{
+    padding: 10px;
+    margin: 10px;
+    font-size: bold;
+    font-size: 1em;
+}
